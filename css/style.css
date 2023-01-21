@@ -1,0 +1,45 @@
+.wrapper{
+	width: 900px;
+	margin: 20px auto;
+}
+.border{
+	border: 3px solid orange;
+	padding: 20px;
+}
+.menu ul{
+list-style: none;
+}
+a:hover{
+	color: orange;
+	background-color: white;
+}
+a{
+	text-decoration: none;
+	padding: 0px 15px ;
+	line-height: 35px;	display: block;
+    border: 1px solid orange; 
+    color: white;
+    background-color: orange;
+    text-transform: uppercase;
+}
+body{
+	color: orange;
+}
+li{
+	float: left;
+}
+.menu{
+	background-color: orange;
+	width: 100%;
+}
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+iframe{
+	width: 100%;
+}
+h1,h2,p,nav{
+	margin: 20px;
+}
